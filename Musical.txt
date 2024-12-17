@@ -1,3 +1,6 @@
 - Frank Sinatra
 - Michael Jackson
 - Queen
+- Chopin
+- Beethoven
+- Mozart
